@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Andysputed
 - 👀 I’m interested in Web developing
-- 🌱 I’m currently learning Html,Css,Java script 
+- 🌱 I’m currently learning Html,Css,Java script and React
 - 💞️ I’m looking to collaborate on how to build one of the best of websites 
   
 
