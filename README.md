@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Andysputed
-- 👀 I’m interested in Web developing
-- 🌱 I’m currently learning Html,Css,Java script and React
-- 💞️ I’m looking to collaborate on how to build one of the best of websites 
-  
+# 👋 Hi, I'm Andrew (@Andysputed)
 
-<!---
-Andysputed/Andysputed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 **Aspiring Web Developer** | 🌍 Kenya  
+🚀 Passionate about building clean, responsive, and user-friendly websites
+
+---
+
+## 👀 About Me
+- 🌱 Currently learning **HTML, CSS, JavaScript & React**
+- 🧠 Focused on **modern web development & UI design**
+- 💞️ Open to collaborating on **frontend & full-stack web projects**
+- 🎯 Goal: Build impactful websites and real-world applications
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React  
+- **Tools:** Git, GitHub, VS Code  
+- **Learning Next:** APIs, Node.js, Advanced React
+
+---
+
+## 📌 Featured Projects
+🚧 *Projects coming soon — currently building and improving daily!*  
+(You’ll pin projects here 👇)
+
+---
+
+## 📫 Connect With Me
+- GitHub: [@Andysputed](https://github.com/Andysputed)
+
+---
+
+⭐ *“Consistency beats talent when talent doesn’t show up.”*
