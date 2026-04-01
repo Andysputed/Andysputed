@@ -22,7 +22,9 @@
 
 ## 📌 Featured Projects
 🚧 *Projects coming soon — currently building and improving daily!*  
-(You’ll pin projects here 👇)
+My Portfolio  Website
+Working with Daraja API
+E-Commerce websites 
 
 ---
 
